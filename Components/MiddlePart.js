@@ -8,7 +8,7 @@ const MiddlePart = () => {
         <div className='m-16 lg:m-40'>
             <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 rounded-lg' style={{ backgroundColor: '#9190E9' }}>
                 <div className='flex p-5'>
-                    <div className='shadow-2xl rounded-xl p-2' style={{ backgroundColor: '#FFFFFF' }}>
+                    <div className='shadow-2xl rounded-xl p-2'>
                         <Image src={img1} className='mt-2'></Image>
                     </div>
                     <div className='lg:ml-1'>
@@ -18,7 +18,7 @@ const MiddlePart = () => {
                     </div>
                 </div>
                 <div className='flex p-5'>
-                    <div className='shadow-2xl rounded-xl p-2' style={{ backgroundColor: '#FFFFFF' }}>
+                    <div className='shadow-2xl rounded-xl p-2'>
                         <Image src={img2} className='mt-2'></Image>
                     </div>
                     <div className='lg:ml-1'>
@@ -27,7 +27,7 @@ const MiddlePart = () => {
                     </div>
                 </div>
                 <div className='flex p-5'>
-                    <div className='shadow-2xl rounded-xl p-2' style={{ backgroundColor: '#FFFFFF' }}>
+                    <div className='shadow-2xl rounded-xl p-2'>
                         <Image src={img3} className='mt-2'></Image>
                     </div>
                     <div className='ml-1'>

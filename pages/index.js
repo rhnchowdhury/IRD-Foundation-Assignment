@@ -3,6 +3,7 @@ import NavBar from 'Components/NavBar'
 import Details from 'Components/Details'
 import PartTwo from 'Components/PartTwo'
 import MiddlePart from 'Components/MiddlePart'
+import LastPart from 'Components/LastPart'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -21,6 +22,7 @@ export default function Home() {
         <Details></Details>
         <PartTwo></PartTwo>
         <MiddlePart></MiddlePart>
+        <LastPart></LastPart>
       </div>
 
     </>
