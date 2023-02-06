@@ -1,6 +1,6 @@
 const PartTwo = () => {
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
+        <div className="lg:m-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
             <div>
                 <h2 className="text-4xl font-medium">Healthy in side</h2>
                 <h2 className="text-4xl font-medium">fresh out side</h2>
