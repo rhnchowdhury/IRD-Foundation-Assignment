@@ -19,7 +19,7 @@ const Details = () => {
                 <div className="absolute px-3 py-1 bottom-36 lg:bottom-2/3  rounded flex" style={{ background: '#FFFFFF', left: '60%' }}>
                     <Image src={img2} className=' h-10  rounded-full'></Image>
                     <div className="ml-1">
-                        <h6 className="font-light font-semibold">150+</h6>
+                        <h6 className="font-semibold">150+</h6>
                         <p className="text-slate-400">Members</p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ const Details = () => {
                 <div className="absolute px-3 py-1 bottom-36 lg:bottom-48 rounded" style={{ background: '#FFFFFF', left: '86%' }}>
                     <Image src={img5} className=' h-10 w-10 lg:ml-7 rounded-full'></Image>
                     <div className="ml-1">
-                        <h6 className="font-light font-semibold">Zaqky Simorang</h6>
+                        <h6 className="font-semibold">Zaqky Simorang</h6>
                         <p className="text-slate-400 lg:ml-5">Trainer</p>
                     </div>
                 </div>
