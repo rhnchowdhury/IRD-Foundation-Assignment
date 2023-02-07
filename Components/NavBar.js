@@ -17,7 +17,7 @@ const NavBar = () => {
                         {menuItems}
                     </ul>
                 </div>
-                <a className=" normal-case text-xl"><span className="btn-primary px-1 py-0 rounded-md">Gym</span> <span className="text-indigo-600">baran</span></a>
+                <a className=" normal-case text-lg" ><span className="text-white px-2 py-0 rounded-md" style={{ background: '#6765F0' }}>Gym</span> <span className="" style={{ color: '#6765F0' }}>baran</span></a>
             </div>
             <div className="navbar-end hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
