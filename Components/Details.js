@@ -18,20 +18,20 @@ const Details = () => {
                         <Image src={img1} alt='' className="max-w-sm h-96 rounded-lg shadow-2xl "></Image>
                     </div>
                     <div className="relative w-32 py-1 px-2 bottom-80 lg:bottom-80 rounded flex" style={{ background: '#FFFFFF', left: '-24%' }}>
-                        <Image src={img2} className=' h-10  rounded-full'></Image>
+                        <Image src={img2} alt='' className=' h-10  rounded-full'></Image>
                         <div className="ml-1">
                             <h6 className="font-semibold">150+</h6>
                             <p className="text-slate-400">Members</p>
                         </div>
                     </div>
                     <div className="relative px-3 py-1 bottom-36 lg:bottom-48 " style={{ left: '-25%' }}>
-                        <Image src={img3} className='w-14 h-14 rounded-full' ></Image>
+                        <Image src={img3} alt='' className='w-14 h-14 rounded-full' ></Image>
                     </div>
                     <div className="relative left-80 lg:left-80" style={{ bottom: '440px' }}>
-                        <Image src={img4} className='w-14 h-14 rounded-full' ></Image>
+                        <Image src={img4} alt='' className='w-14 h-14 rounded-full' ></Image>
                     </div>
                     <div className="relative px-1 py-1 w-36 bottom-72 left-64 lg:bottom-80 rounded lg:left-64 bg-white">
-                        <Image src={img5} className=' h-10 w-10 lg:ml-10 rounded-full'></Image>
+                        <Image src={img5} alt='' className=' h-10 w-10 lg:ml-10 rounded-full'></Image>
                         <div className="ml-1">
                             <h6 className="font-semibold">Zaqky Simorang</h6>
                             <p className="text-slate-400 lg:ml-5">Trainer</p>
