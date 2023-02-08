@@ -4,7 +4,7 @@ import Details from 'Components/Details'
 import PartTwo from 'Components/PartTwo'
 import MiddlePart from 'Components/MiddlePart'
 import LastPart from 'Components/LastPart'
-import Head from 'next/head'
+import Head from 'next/head';
 
 const inter = Inter({ subsets: ['latin'] })
 

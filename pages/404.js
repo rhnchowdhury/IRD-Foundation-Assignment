@@ -1,5 +1,4 @@
 import Image from "next/image";
-// import img from '../public/error.avif';
 
 const ErrorPage = () => {
     return (
