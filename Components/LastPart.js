@@ -1,8 +1,8 @@
 import Image from 'next/image';
-import img1 from '../Components/assests/image2.png';
-import img2 from '../Components/assests/Vector (10).png';
-import img3 from '../Components/assests/Vector (11).png';
-import img4 from '../Components/assests/vector6.png';
+import img1 from '../Components/assets/image2.jpg';
+import img2 from '../Components/assets/Vector8.jpg';
+import img3 from '../Components/assets/Vector9.jpg';
+import img4 from '../Components/assets/vector6.jpg';
 import { BsArrowRight } from "react-icons/bs";
 
 const LastPart = () => {

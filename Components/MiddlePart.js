@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import img1 from '../Components/assests/Vector1.png';
-import img2 from '../Components/assests/Vector2.png';
-import img3 from '../Components/assests/Vector3.png';
+import img1 from '../Components/assets/Vector1.jpg';
+import img2 from '../Components/assets/Vector2.jpg';
+import img3 from '../Components/assets/Vector3.jpg';
 
 const MiddlePart = () => {
     return (

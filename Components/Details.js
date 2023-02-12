@@ -1,8 +1,8 @@
-import img1 from "../Components/assests/image1.png";
-import img2 from "../Components/assests/Vector4.png";
-import img3 from "../Components/assests/vector5.png";
-import img4 from "../Components/assests/vector6.png";
-import img5 from "../Components/assests/vector7.png";
+import img1 from "../Components/assets/image1.jpg";
+import img2 from "../Components/assets/Vector4.jpg";
+import img3 from "../Components//assets/vector5.jpg";
+import img4 from "../Components/assets/vector6.jpg";
+import img5 from "../Components/assets/vector7.jpg";
 import Image from "next/image";
 import { AiFillRightCircle } from "react-icons/ai";
 import { IoMdPlayCircle } from "react-icons/io";
