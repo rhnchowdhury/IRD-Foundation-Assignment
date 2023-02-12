@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Live site: 
 
-https://ird-assignment-ui.vercel.app/
+https://ird-foundation-assignment.vercel.app/
